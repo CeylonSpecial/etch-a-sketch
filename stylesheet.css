@@ -1,0 +1,13 @@
+#grid-container {
+    margin: auto;
+    display: grid;
+    min-height: 700px;
+    width: 700px;
+    border: black 5px solid;
+}
+#button-container {
+    text-align: center;
+}
+h1 {
+    text-align: center;
+}
