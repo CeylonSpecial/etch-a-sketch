@@ -1,5 +1,8 @@
 About:
-This was my third project of The Odin Project's coursework. The assignment was to create an online version of an Etch-A-Sketch using my newly acquired DOM manipulation skills.
+This was my third project of The Odin Project's coursework.
+
+Assignment:
+Create an online version of an Etch-A-Sketch using my newly acquired DOM manipulation skills.
 
 Objectives:
 -practice DOM manipulation
